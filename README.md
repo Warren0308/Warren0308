@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Warren0308
-- 👀 I’m interested in Java and Python
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Scientits Project, especially in Blockchain industry.
 - 💞️ I’m looking to collaborate on Smart Contract Porject
 - 📫 How to reach me 018-7872014/warrenwong0308@gmail.com
